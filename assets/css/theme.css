@@ -7,6 +7,9 @@ body {
 	padding-top:69.75px;
 	font-family:Nunito;
 }
+.text-center {
+	text-align: center;
+}
 .site-content {
 	margin-top:50px;
 	min-height:400px;

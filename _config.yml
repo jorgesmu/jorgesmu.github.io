@@ -35,7 +35,12 @@ defaults:
     values:
       layout: page
       
-      
+medium: "https://medium.com/@jorgesmulevici"
+instagram: "https://www.instagram.com/jorgesmu/"
+twitter: "https://twitter.com/Jorgesmu"
+linkedin: "https://il.linkedin.com/in/jorge-smulevici-4980042b"
+github: "https://github.com/jorgesmu"
+
 # Syntax
 markdown: kramdown
 highlighter: rouge
