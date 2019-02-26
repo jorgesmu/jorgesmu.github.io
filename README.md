@@ -1,50 +1,20 @@
-# Jekyll Theme - Mundana by WowThemes.net
+# Jorgesmu.me Theme (Forked from:Jekyll Theme - Mundana by WowThemes.net (https://github.com/wowthemesnet/mundana-theme-jekyll)
 
-[Live Demo](https://wowthemesnet.github.io/mundana-theme-jekyll/) &nbsp; | &nbsp; 
-[Download](https://github.com/wowthemesnet/mundana-theme-jekyll/archive/master.zip) &nbsp; | &nbsp; 
-[Buy me a coffe](https://wowthemesnet.github.io/mundana-theme-jekyll//buy-me-a-coffee.html)
+[Live Demo](https://jorgesmu.github.io/mundana-theme-jekyll/) &nbsp; | &nbsp; 
+[Download](https://github.com/jorgesmu/jorgesmu.github.io/archive/master.zip) &nbsp; | &nbsp; 
+[Buy me a coffe](https://jorgesmu.github.io/mundana-theme-jekyll//buy-me-a-coffee.html)
 
-![mundana jekyll theme screenshot](assets/images/screenshot.jpg)
+![jorgesmu.me theme screenshot](assets/images/screenshot.jpg)
 
-### Install Mundana
+### Install Theme
 
-- [Download](https://github.com/wowthemesnet/mundana-theme-jekyll/archive/master.zip) or `git clone https://github.com/wowthemesnet/mundana-theme-jekyll.git`
+- [Download](https://github.com/jorgesmu/jorgesmu.github.io/archive/master.zip) or `git clone https://github.com/jorgesmu/jorgesmu.github.io.git`
 - In Mundana's newly created directory `bundle`
 - Change your configuration in `_config.yml`. If your site is in root, for `baseurl`, make sure this is set to `baseurl: ''`
 - `jekyll serve --watch`
 
-### Use
 
-**YAML Post Example**:
-
-```
----
-layout: post
-title:  "We all wait for summer"
-author: john
-categories: [ Jekyll, tutorial ]
-image: assets/images/5.jpg
----
-```
-
-`comments: false` - disable comments in posts
-
-`image: "https://www.myexternal.com/image.jpg"`  - set external featured image
-
-`tags: [featured]` - to display Featured posts on homepage
-
-
-**YAML Page Example**:
-
-```
----
-title: "About"
-permalink: "/about.html"
-image: "/assets/images/screenshot.jpg"
----
-```
-
-### Contribute to Mundana repository
+### Contribute to jorgesmu.me
 
 1. In the top-right corner of this page, click **Fork**.
 
@@ -75,10 +45,10 @@ That's it! Soon I'll be merging your changes into the master branch of this proj
 
 Copyright (C) 2019 WowThemes.net.
 
-Theme designed and developed by [Sal](https://www.wowthemes.net), *free* under MIT license. 
+Original base Theme (Mundana) designed and developed by [Sal](https://www.wowthemes.net), *free* under MIT license. Extensions made by Jorgesmu
 
-<a href="https://wowthemesnet.github.io/mundana-theme-jekyll//buy-me-a-coffee.html" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
+<a href="https://jorgesmy.github.io/mundana-theme-jekyll//buy-me-a-coffee.html" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 
 ### Live Demo
 
-[Live Demo](https://wowthemesnet.github.io/mundana-theme-jekyll/)
+[Live Demo](https://jorgesmu.github.io/)
