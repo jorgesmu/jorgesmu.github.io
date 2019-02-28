@@ -2,6 +2,7 @@
 title: "About"
 permalink: "/about.html"
 image: "/assets/images/screenshot.jpg"
+container_class: "about"
 ---
 <!-- Example took from: https://bootsnipp.com/snippets/Q0ppE -->
 <div class="container" id="about">

@@ -763,7 +763,6 @@ article h1,article h2,article h3,article h4,article h5,article h6,article .h1,ar
 	}
 }
 
-
 /*TIMELINE*/
 a{text-decoration:none}
 h4{text-align:center;margin:30px 0;color:#444}
@@ -1330,3 +1329,6 @@ h4{text-align:center;margin:30px 0;color:#444}
 .main-timeline12 .timeline-content{text-align:center}
 }
 
+.about{
+	max-width: 100%;
+}
