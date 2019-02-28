@@ -6,7 +6,7 @@ layout: default
 
 <div class="row justify-content-center">
 
-    <div class="col-md-8">
+    <div {% if page.ignore_width != true %} class="col-md-8" {% endif %}>
 
 
              {% if page.image %} 
