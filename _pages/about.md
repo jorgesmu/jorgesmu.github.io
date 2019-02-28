@@ -12,7 +12,7 @@ ignore_width: true
         <div class="col-md-12">
             <div class="main-timeline">
                 <a href="#" class="timeline">
-                    <div class="timeline-icon"><i class="fa fa-globe"></i></div>
+                    <div class="timeline-icon"><i class="fa fa-rocket"></i></div>
                     <div class="timeline-content">
                         <h3 class="title">Web Designer</h3>
                         <p class="description">
@@ -21,7 +21,7 @@ ignore_width: true
                     </div>
                 </a>
                 <a href="#" class="timeline">
-                    <div class="timeline-icon"><i class="fa fa-rocket"></i></div>
+                    <div class="timeline-icon"><i class="fa fa-map-marked-alt"></i></div>
                     <div class="timeline-content">
                         <h3 class="title">Web Developer</h3>
                         <p class="description">
@@ -30,7 +30,7 @@ ignore_width: true
                     </div>
                 </a>
                 <a href="#" class="timeline">
-                    <div class="timeline-icon"><i class="fa fa-briefcase"></i></div>
+                    <div class="timeline-icon"><i class="fa fa-laptop-code"></i></div>
                     <div class="timeline-content">
                         <h3 class="title">Web Designer</h3>
                         <p class="description">
@@ -39,7 +39,7 @@ ignore_width: true
                     </div>
                 </a>
                 <a href="#" class="timeline">
-                    <div class="timeline-icon"><i class="fa fa-mobile"></i></div>
+                    <div class="timeline-icon"><i class="fa fa-chart-line"></i></div>
                     <div class="timeline-content">
                         <h3 class="title">Web Developer</h3>
                         <p class="description">
