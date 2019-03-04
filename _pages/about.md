@@ -12,36 +12,37 @@ ignore_width: true
                 <a href="#" class="timeline">
                     <div class="timeline-icon"><i class="fa fa-rocket"></i></div>
                     <div class="timeline-content">
-                        <h3 class="title">Web Designer</h3>
+                        <h3 class="title">New Ideas</h3>
                         <p class="description">
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate ducimus officiis quod! Aperiam eveniet nam nostrum odit quasi ullam voluptatum.
+                            Passioned about hearing new ideas and helping them grow. Some of my favorites topics include: tecnology, medicine, music, community sharing and innovation.
                         </p>
                     </div>
                 </a>
                 <a href="#" class="timeline">
                     <div class="timeline-icon"><i class="fa fa-map-marked-alt"></i></div>
                     <div class="timeline-content">
-                        <h3 class="title">Web Developer</h3>
+                        <h3 class="title">Global network</h3>
                         <p class="description">
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate ducimus officiis quod! Aperiam eveniet nam nostrum odit quasi ullam voluptatum.
+                            Lived abroad and worked with people from several different countries backgrounds. 
+                            Will share my travels favorites places (soon).
                         </p>
                     </div>
                 </a>
                 <a href="#" class="timeline">
                     <div class="timeline-icon"><i class="fa fa-laptop-code"></i></div>
                     <div class="timeline-content">
-                        <h3 class="title">Web Designer</h3>
+                        <h3 class="title">Engineer background</h3>
                         <p class="description">
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate ducimus officiis quod! Aperiam eveniet nam nostrum odit quasi ullam voluptatum.
+                            Holding a computer engineer degree from the University of Buenos Aires (equivalent to Bsc. & Msc. in most countries). I love using technology to solve real world problems.
                         </p>
                     </div>
                 </a>
                 <a href="#" class="timeline">
                     <div class="timeline-icon"><i class="fa fa-chart-line"></i></div>
                     <div class="timeline-content">
-                        <h3 class="title">Web Developer</h3>
+                        <h3 class="title">self-overcoming</h3>
                         <p class="description">
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate ducimus officiis quod! Aperiam eveniet nam nostrum odit quasi ullam voluptatum.
+                            Constantly chanllenging my self: personally, professionally. Personal favorite challenges: travelling, running, music. Find more in my blog (more posts coming).
                         </p>
                     </div>
                 </a>
