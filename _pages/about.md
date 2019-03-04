@@ -42,7 +42,7 @@ ignore_width: true
                     <div class="timeline-content">
                         <h3 class="title">self-overcoming</h3>
                         <p class="description">
-                            Constantly chanllenging my self: personally, professionally. Personal favorite challenges: travelling, running, music. Find more in my blog (more posts coming).
+                            Constantly chanllenging my self: personally, professionally. Personal favorite challenges: travelling, running, music, public speaking. Find more in my blog (more posts coming).
                         </p>
                     </div>
                 </a>
