@@ -1,5 +1,6 @@
 ---
 title: "Let's have a coffee"
+page_title: "Let's have a coffee"
 permalink: "/lets-have-a-coffee.html"
 ---
 

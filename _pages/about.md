@@ -1,13 +1,11 @@
 ---
 title: "About"
 permalink: "/about.html"
-image: "/assets/images/screenshot.jpg"
 container_class: "about"
 ignore_width: true
 ---
 <!-- Example took from: https://bootsnipp.com/snippets/Q0ppE -->
 <div class="container" id="about">
-    <h4>Timeline Style : Demo-1</h4>
     <div class="row">
         <div class="col-md-12">
             <div class="main-timeline">
