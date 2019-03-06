@@ -32,7 +32,7 @@ ignore_width: true
                     <div class="timeline-content">
                         <h3 class="title">Engineer background</h3>
                         <p class="description">
-                            Holding a computer engineer degree from the University of Buenos Aires (equivalent to Bsc. & Msc. in most countries). I love using technology to solve real world problems.
+                            I hold a computer engineer degree from the University of Buenos Aires (equivalent to Bsc. & Msc. in most countries). I love using technology to solve real world problems.
                         </p>
                     </div>
                 </a>
