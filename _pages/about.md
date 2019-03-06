@@ -14,7 +14,7 @@ ignore_width: true
                     <div class="timeline-content">
                         <h3 class="title">New Ideas</h3>
                         <p class="description">
-                            Passioned about hearing new ideas and helping them grow. Some of my favorites topics include: tecnology, medicine, music, community sharing and innovation.
+                            I'm passionate about hearing new ideas and helping those ideas grow. Some of my favorite topics include technology, medicine, music, community sharing, and innovation.
                         </p>
                     </div>
                 </a>
@@ -23,8 +23,7 @@ ignore_width: true
                     <div class="timeline-content">
                         <h3 class="title">Global network</h3>
                         <p class="description">
-                            Lived abroad and worked with people from several different countries backgrounds. 
-                            Will share my travels favorites places (soon).
+                            I have lived abroad and worked with many people of different nationalities and cultural backgrounds. I will share my favorite travel destinations soon.
                         </p>
                     </div>
                 </a>
@@ -42,7 +41,7 @@ ignore_width: true
                     <div class="timeline-content">
                         <h3 class="title">self-overcoming</h3>
                         <p class="description">
-                            Constantly chanllenging my self: personally, professionally. Personal favorite challenges: travelling, running, music, public speaking. Find more in my blog (more posts coming).
+                            I am constantly challenging myself at a personal and professional level. My favorite personal challenges include traveling, running, and music. You could find more information in my blog. (More posts coming shortly).
                         </p>
                     </div>
                 </a>
