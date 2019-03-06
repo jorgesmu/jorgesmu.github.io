@@ -1,10 +1,12 @@
 ---
-title: "Contact"
-permalink: "/contact.html"
+title: "Let's have a coffee"
+page_title: "Let's have a coffee"
+permalink: "/lets-have-a-coffee.html"
 ---
 
 <form action="https://formspree.io/{{site.email}}" method="POST">    
-<p>Please send your message to {{site.name}}. We will reply as soon as possible!</p>
+<p>I like to hear new ideas, stories and help people and project!</p>
+<p>I will come back to you soon!</p>
 <div class="form-group row">
 <div class="col-md-6">
 <input class="form-control" type="text" name="name" placeholder="Name*" required>

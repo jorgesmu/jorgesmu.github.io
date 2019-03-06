@@ -1,11 +1,11 @@
 # Site
-name: 'Mundana'
-description: 'Mundana is a free Jekyll theme for awesome people like you, Medium like.'
+name: 'Jorgesmu'
+description: ''
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-baseurl: '/mundana-theme-jekyll'
+baseurl: ''
 disqus: 'demowebsite'
-email: 'wowthemesnet@gmail.com'
+email: 'jsmulevici@gmail.com'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 
 include: ["_pages"]
@@ -35,15 +35,18 @@ defaults:
     values:
       layout: page
       
-      
+medium: "https://medium.com/@jorgesmulevici"
+instagram: "https://www.instagram.com/jorgesmu/"
+twitter: "https://twitter.com/Jorgesmu"
+linkedin: "https://il.linkedin.com/in/jorge-smulevici-4980042b"
+github: "https://github.com/jorgesmu"
+
 # Syntax
 markdown: kramdown
 highlighter: rouge
 
 # Paginate
 paginate: 10
-
-
 
 # Exclude metadata and development time dependencies (like Grunt plugins)
 exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]
