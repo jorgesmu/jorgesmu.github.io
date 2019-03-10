@@ -2,7 +2,7 @@
 
 [Live Demo](https://jorgesmu.github.io/) &nbsp; | &nbsp; 
 [Download](https://github.com/jorgesmu/jorgesmu.github.io/archive/master.zip) &nbsp; | &nbsp; 
-[Buy me a coffe](https://jorgesmu.github.io/buy-me-a-coffee.html)
+[Lets have a coffee](https://jorgesmu.github.io/lets-have-a-coffee.html)
 
 ![jorgesmu.com theme screenshot](assets/images/screenshot.jpg)
 
@@ -47,7 +47,7 @@ Copyright (C) 2019 WowThemes.net.
 
 Original base Theme (Mundana) designed and developed by [Sal](https://www.wowthemes.net), *free* under MIT license. Extensions made by Jorgesmu
 
-<a href="https://jorgesmy.github.io/buy-me-a-coffee.html" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
+<a href="https://jorgesmy.github.io/lets-have-a-coffee.html" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Lets have a coffee" style="height: auto !important;width: auto !important;" ></a>
 
 ### Live Demo
 

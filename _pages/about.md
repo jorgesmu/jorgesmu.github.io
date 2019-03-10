@@ -30,9 +30,9 @@ ignore_width: true
                 <a href="#" class="timeline">
                     <div class="timeline-icon"><i class="fa fa-laptop-code"></i></div>
                     <div class="timeline-content">
-                        <h3 class="title">Engineer background</h3>
+                        <h3 class="title">Engineering background</h3>
                         <p class="description">
-                            I hold a computer engineer degree from the University of Buenos Aires (equivalent to Bsc. & Msc. in most countries). I love using technology to solve real world problems.
+                            I hold a Computer Engineering degree from the University of Buenos Aires (equivalent to BSc. & MSc. in most countries). I love using technology to solve real world problems.
                         </p>
                     </div>
                 </a>
@@ -41,7 +41,7 @@ ignore_width: true
                     <div class="timeline-content">
                         <h3 class="title">self-overcoming</h3>
                         <p class="description">
-                            I am constantly challenging myself at a personal and professional level. My favorite personal challenges include traveling, running, and music. You could find more information in my blog. (More posts coming shortly).
+                            I am constantly challenging myself on a personal level. My favorite activities include traveling, running, and playing music. You can find more information about this in my blog (more posts coming shortly!).
                         </p>
                     </div>
                 </a>
@@ -50,7 +50,7 @@ ignore_width: true
     </div>
 </div>
 
-Want to know more about me:
+Want to know more about me?
 
 <a href="{{site.medium}}" class="btn btn-outline-dark btn-round">
     <i class="fab fa-medium-m"></i> Blog
@@ -58,5 +58,5 @@ Want to know more about me:
 <a class="btn btn-outline-dark btn-round" href="{{site.linkedin}}">
     <i class="fab fa-linkedin-in"></i> LinkedIn
 </a> 
-<a class="btn btn-outline-dark btn-round" href="{{site.baseurl}}/buy-me-a-coffee.html"> <i class="fa fa-coffee"></i> Buy me a coffee
+<a class="btn btn-outline-dark btn-round" href="{{site.baseurl}}/lets-have-a-coffee.html"> <i class="fa fa-coffee"></i> Buy me a coffee
 </a>

@@ -5,8 +5,8 @@ permalink: "/lets-have-a-coffee.html"
 ---
 
 <form action="https://formspree.io/{{site.email}}" method="POST">    
-<p>I like to hear new ideas, stories and help people and project!</p>
-<p>I will come back to you soon!</p>
+<p>I like to hear about new ideas, stories and help people and their projects!</p>
+<p>I will get back to you soon!</p>
 <div class="form-group row">
 <div class="col-md-6">
 <input class="form-control" type="text" name="name" placeholder="Name*" required>
